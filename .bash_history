@@ -1,0 +1,2 @@
+sudo du
+sudo su
